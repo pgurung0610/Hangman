@@ -1,0 +1,12 @@
+# IntelliJ Idea
+.idea/
+
+# macOS
+*.DS_Store
+
+# Gradle template
+.gradle/
+build/
+
+# Saved games
+*.hng

@@ -1,9 +1,6 @@
 # Hangman
 This is the common word game, Hangman, created as a JavaFX Project
 
-# Requirements
-- Java SE 11
-
 # Instructions
 Clone the repository and run the following command:
 
